@@ -1,3 +1,5 @@
+<img width="945" height="531" alt="image" src="https://github.com/user-attachments/assets/7c6fa554-c1a9-4d8e-aa1a-712d2198dca6" />
+
 # 🎯 Shooting Range (FPS Prototype)
 
 ## 📖 Overview
