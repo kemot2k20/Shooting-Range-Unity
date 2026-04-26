@@ -1,4 +1,11 @@
+# Gameplay Showcase
+
 <img width="945" height="531" alt="image" src="https://github.com/user-attachments/assets/7c6fa554-c1a9-4d8e-aa1a-712d2198dca6" />
+
+
+https://github.com/user-attachments/assets/42b58aa1-d6fe-4f97-9311-97c6ec351672
+
+
 
 # 🎯 Shooting Range (FPS Prototype)
 
